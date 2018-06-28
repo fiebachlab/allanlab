@@ -1,12 +1,12 @@
-- title: "Functional dissociation of confident and not-confident errors in the spatial delayed response task demonstrates impairments in working memory encoding and maintenance in schizophrenic patients"
+- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
-  description: In this study we investigated working memory functions in psychiatric patients with schizophrenia.
-  authors: Mayer, J. S., Stäblein, M., Oertel-Knöchel, V., Fiebach, C. J.
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
   link:
-    url: https://doi.org/10.3389/fpsyt.2018.00202
-    display: Frontiers in Psychiatry, 9:202 
+    url: https://arxiv.org/abs/1806.00374
+    display:  arxiv:1806.00374 (2018)
   highlight: 1
-news2: 
+  news2: 
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
