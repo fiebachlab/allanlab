@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Fiebach Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Fiebach Lab @ Goethe University Frankfurt."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+Higher cognitive functions such as language, working memory, cognitive control, or intelligence are the result of complex processes in our brains. We use modern brain imaging techniques to understand how these uniquely human abilities are organized in the brain.
+
+We are located at the Psychology Department of Goethe University Frankfurt, and we are part of the [Interdisciplinary Center for Neuroscience Frankfurt (ICNF)] (http://www.icn-frankfurt.de/) as well as the [Rhine Main Neuroscience Network (rmn2)] (http://www.rmn2.de/). We are also associated to Frankfurt's [Center for Individual Development and Adaptive Education (IDeA)] (https://www.idea-frankfurt.eu) and the [Collaborative Research Center "Neurobiology of Resilience"] (https://crc1193.de/), and we closely collaborate with the Frankfurt [Brain Imaging Center (BIC)] (http://www.bic.uni-frankfurt.de). 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
