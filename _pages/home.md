@@ -24,10 +24,10 @@ Higher cognitive functions such as language, working memory, cognitive control, 
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Hilger17.png" alt="Brain Modularity" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Hilger17.PNG" alt="Brain Modularity" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ekman16.png" alt="Working Memory Pathways" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ekman16.PNG" alt="Working Memory Pathways" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wolffetal18.PNG" alt="Attention Tracking Network" />
@@ -35,13 +35,6 @@ Higher cognitive functions such as language, working memory, cognitive control, 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GaleanWeber17b.PNG" alt="Networks for Working Memory Precision" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
-        </div>
-    </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
