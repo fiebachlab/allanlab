@@ -51,10 +51,6 @@ Higher cognitive functions such as language, working memory, cognitive control, 
 We are located at the Psychology Department of [Goethe University Frankfurt](http://www.uni-frankfurt.de/de?locale=de), and we are part of the [Interdisciplinary Center for Neuroscience Frankfurt (ICNF)](http://www.icn-frankfurt.de/) as well as the [Rhine Main Neuroscience Network (rmn2)](http://www.rmn2.de/). We are also associated to Frankfurt's [Center for Individual Development and Adaptive Education (IDeA)](https://www.idea-frankfurt.eu) and the [Collaborative Research Center "Neurobiology of Resilience"](https://crc1193.de/), and we closely collaborate with the Frankfurt [Brain Imaging Center (BIC)](http://www.bic.uni-frankfurt.de). 
 
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
- 
- 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
